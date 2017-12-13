@@ -23,6 +23,7 @@
 ![画像](https://www.google.co.jp/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 |aa|bb|cc|
+|:--:|:--:|:--:|
 |sss|sssss|rrr|
 |rette|rr|rrr|
 
